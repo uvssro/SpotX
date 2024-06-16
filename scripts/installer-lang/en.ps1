@@ -1,7 +1,7 @@
 [PSCustomObject]@{
     Welcome         = "
 ╔══════════════════════════════╗
-║ Welcome to SpotX for Windows ║
+║ Welcome to UNVRS for SPOTIFY ║
 ╚══════════════════════════════╝"
     Incorrect       = "Oops, an incorrect value,"
     Incorrect2      = "enter again through "
